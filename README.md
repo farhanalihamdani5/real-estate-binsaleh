@@ -142,3 +142,4 @@ For now Im gonna leave this project as it is, because I need to focus in another
 - Add an Admin panel, for products, users and orders management.
 - Create a webhook to monitor stripe payment confirmation.
 - Separate shipping address, payment and checkout in to different pages.
+# real-estate-binsaleh
